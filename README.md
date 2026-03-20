@@ -97,8 +97,4 @@ The app will open automatically at `http://localhost:8501`.
 - **python-dotenv** — `.env` file loading
 - **Pillow** — image handling
 
----
-
-## 📜 License
-
-This project is provided as-is for educational and demonstration purposes.
+---.
