@@ -115,9 +115,9 @@ Open: `http://localhost:8501`
 - Streamlit
 - Google Gemini (`google-generativeai`)
 - OpenWeatherMap API
-- `requests`
-- `python-dotenv`
-- `Pillow`
+- requests
+- python-dotenv
+- Pillow
 
 ## 📜 License
 
