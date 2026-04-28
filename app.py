@@ -109,6 +109,6 @@ if st.button("🌿 Get Advice", type="primary", use_container_width=True):
 # ---------------------------------------------------------------------------
 st.divider()
 st.caption(
-    "Powered by Amazon Nova via AWS Bedrock · Weather data from OpenWeatherMap · "
+    "Powered by Google Gemini · Weather data from OpenWeatherMap · "
     "Built with ❤️ for Indian farmers"
 )
